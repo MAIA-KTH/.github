@@ -1,6 +1,6 @@
 # MAIA
 ## Medical Artificial Intelligence Aggregator
-![](MAI_A_logo.png)
+![](MAIA_schema.png)
 
 From the "State of Intentions" document, drafted after MICCAI 2022:
 
