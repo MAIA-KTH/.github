@@ -2,8 +2,6 @@
 ## Medical Artificial Intelligence Aggregator
 ![](MAIA_schema.png)
 
-From the "State of Intentions" document, drafted after MICCAI 2022:
-
 ---
 ## AI Platform for Joint Collaborations in the Medical Field
 
